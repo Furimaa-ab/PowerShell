@@ -1,0 +1,1 @@
+iwr -useb "https://wuwatracker.com/import.ps1" | iex
